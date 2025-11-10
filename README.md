@@ -24,8 +24,6 @@ Emotional Feedback: Princess sprite switches between happy/sad states depending 
 Bomb Penalty: Catching ice cream bombs reduces your score and breaks the combo
 Spawn Timing: Controlled via allowSpawn variable and cooldown timer
 
-Screenshots:
-
 Project Status:
 Finished prototype.
 This project was created for a university assessment task in 2025. While not actively maintained, it demonstrates foundational coding skills in game logic, conditionals, event handling, and visual feedback.
